@@ -34,3 +34,7 @@ if "hello" in text :
 
 if "what is my name" in text:
     speak("your name is rajesh")
+    
+    
+    
+    
