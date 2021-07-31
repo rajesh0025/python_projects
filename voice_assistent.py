@@ -26,7 +26,7 @@ def get_audio():
 
     return said
 
-# speak(" hai prends")
+# speak(" hai friends")
 text= get_audio()
 
 if "hello" in text :
